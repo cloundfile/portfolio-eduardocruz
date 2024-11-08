@@ -19,7 +19,7 @@ export default function Home() {
                 e estou sempre em busca de novos desafios para expandir meus conhecimentos e habilidades.
               </p>
               <div className="flex flex-col xl:flex-row items-center gap-8">
-                <Link href="/uploads/eduardo_cruz_cv.pdf" target="_blank">
+                <Link href="" target="_blank">
                   <Button variant="outline" size="lg" className="uppercase flex items-center gap-2 bg-primary text-accent text-base hover:bg-accent
                     hover:text-primary hover:transition-all duration-500 border-accent" >
                     <span>Download CV</span>
